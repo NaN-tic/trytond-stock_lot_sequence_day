@@ -1,0 +1,4 @@
+This Module runs with the Tryton application platform.
+
+It extends stock_lot_sequence with a lot sequence that uses a yymmdd prefix
+based on a configurable day cutover time.

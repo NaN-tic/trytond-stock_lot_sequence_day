@@ -1,0 +1,19 @@
+# 
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:ir.sequence,day_change_time:"
+msgid "Day Change Time"
+msgstr "Hora de canvi de dia"
+
+msgctxt "field:ir.sequence,day_change_time:"
+msgid "Time from which the next day is used for the sequence."
+msgstr "Hora a partir de la qual la seqüència usa el dia següent."
+
+msgctxt "field:ir.sequence,type:"
+msgid "YYMMDD (2-digit year)"
+msgstr "YYMMDD (any de 2 dígits)"
+
+msgctxt "field:ir.sequence,type:"
+msgid "YYYYMMDD (4-digit year)"
+msgstr "YYYYMMDD (any de 4 dígits)"
